@@ -1,0 +1,2 @@
+URLは~/{WARファイルの名前}/{パス}となる
+http://localhost:8080/demo-0.0.1-SNAPSHOT/
